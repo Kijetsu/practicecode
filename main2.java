@@ -1,0 +1,13 @@
+public class main2 {
+    public class main {
+
+    public static void main(String[] args) {
+       
+        System.out.println("Hello World from dog A!");
+        System.out.println("Hello World from dog B!");
+        System.out.println("Hello World from dog C!");
+        
+    }
+    
+}
+}
