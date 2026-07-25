@@ -4,6 +4,8 @@ public class main {
        
         System.out.println("Hello World from Person A!");
         System.out.println("Hello World from Person B!");
+        System.out.println("Hello World from Person C!");
+        
     }
     
 }
